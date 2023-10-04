@@ -2,6 +2,7 @@
 
 int main() {
 
-	printf("Hello World\n");
+	//World‚©‚çGitHub‚É•ÏX
+	printf("Hello GitHub\n");
 	return 0;
 }
