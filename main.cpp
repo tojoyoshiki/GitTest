@@ -7,6 +7,7 @@ int main() {
 	printf("2023/10/11\n");
 
 	printf("‘‚«‚­‚¯\n");
+	printf("ƒ}[ƒW‚µ‚Ä‚­‚¾‚³‚¢\n");
 
 	return 0;
 }
