@@ -9,5 +9,7 @@ int main() {
 	printf("書きくけ\n");
 	printf("マージしてください\n");
 
+	printf("マージしてください\n");
+
 	return 0;
 }
